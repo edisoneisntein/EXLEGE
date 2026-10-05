@@ -1,0 +1,11 @@
+{
+  "name": "Remix Remix LAWYER AI v 2.0",
+  "description": "EX LEGE - Plataforma de Litigio Estratégico y Análisis Forense Jurídico con Gobernanza LAGP V5 y optimización de habilidades de agentes en espacio de texto mediante SkillOpt y SkillLens.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": "",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
